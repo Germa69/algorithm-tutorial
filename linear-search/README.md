@@ -3,7 +3,7 @@
 ## Ý tưởng
 
 ```
-Duyệt tuần tự từng phần tử trong danh sách và trả về khi tìm thấy giá trị cần tìm
+Duyệt tuần tự từng phần tử trong danh sách và trả về vi tri index khi tìm thấy giá trị cần tìm
 ```
 
 ## Psuedo
